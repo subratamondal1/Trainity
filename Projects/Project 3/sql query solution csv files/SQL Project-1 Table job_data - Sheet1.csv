@@ -1,0 +1,9 @@
+job_id,actor_id,event,language,time_spent,org,ds
+21,1001,skip,English,15,A,30/11/20
+22,1006,transfer,Arabic,25,B,30/11/20
+23,1003,decision,Persian,20,C,29/11/20
+23,1005,transfer,Persian,22,D,28/11/20
+25,1002,decision,Hindi,11,B,28/11/20
+11,1007,decision,French,104,D,27/11/20
+23,1004,skip,Persian,56,A,26/11/20
+20,1003,transfer,Italian,45,C,25/11/20
